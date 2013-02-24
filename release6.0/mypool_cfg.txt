@@ -1,0 +1,19 @@
+host="NO9"
+user="cnc2"
+pwd="1q2w3e4r"
+threadmax="5"
+oracle_connections="5"
+client_timeout="20"
+//host="CNC2DB"
+
+
+//***IMPORTMENT***
+//SUPPORT FIELDS=50
+//SUPPORT CLOB FIELD max 1000000 byte
+//max query is 2000000byte
+//***IMPORTMENT***
+
+
+
+//ECBID
+//MYECBID
