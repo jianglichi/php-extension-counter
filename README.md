@@ -1,4 +1,4 @@
-php extension 計數器
+php extension 非常快速的數字累加搜尋計數器
 ====
 C++ 開發 運用 binary search , index table 
 藉由記憶體存取及搬移 達成極速 數字搜尋 累加 新增 的php function
