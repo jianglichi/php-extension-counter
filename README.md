@@ -7,6 +7,6 @@ C++ 開發 運用 binary search , index table
 例如廣告計數
 
 附帶有mutex-lock功能
-可以幫忙鎖定交易
+可以幫忙鎖定concurrent交易
 
 
